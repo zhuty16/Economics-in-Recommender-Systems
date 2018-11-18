@@ -35,6 +35,9 @@ Contributed by [Tianyu Zhu](https://github.com/zhuty16).
 1. **Causal embeddings for recommendation.**
 *Bonner, Stephen, and Flavian Vasile.* RecSys 2018. (Best Paper Award)
 
+1. **The Deconfounded Recommender: A Causal Inference Approach to Recommendation.**
+*Wang, Yixin, et al.* arXiv 2018.
+
 ### Debiasing
 
 1. **Recommendations as treatments: Debiasing learning and evaluation.**
